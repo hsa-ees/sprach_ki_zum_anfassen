@@ -1,4 +1,4 @@
-Willkommen bei unserem Projekt "LLM zum Anfassen".
+Willkommen bei unserem Projekt "Sprach KI zum Anfassen".
 
 Hierbei handelt es sich um ein interaktives Tutorial in Form eines Jupyter Notebooks, das Schülern und Interessierten interaktiv näherbringt, wie Large Language Models funktionieren, wie sie verbessert werden können und wie man sich ein eigenes Open-Source LLM auf dem eigenen PC einrichten und nutzen kann. 
 
