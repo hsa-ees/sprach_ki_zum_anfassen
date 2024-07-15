@@ -6,7 +6,7 @@ Zum Starten könnt ihr euch die zu eurem Betriebssystem passende Installations-P
 
 - Die Bearbeitung des Notebooks (ohne Installation) nimmt mindestens 2 Stunden in Anspruch
 
-- WICHTIG: Momentan muss die Datei "ollama-jupyter.tar" noch aus folgendem Nextcloud Ordner heruntergeladen werden: (Die Datei befindet gerade in Überarbeitung)
+- WICHTIG: Momentan muss die Datei "ollama-jupyter.tar" noch aus folgendem Nextcloud Ordner heruntergeladen werden: https://cloud.hs-augsburg.de/index.php/s/zK6WrdnQF72JG57
 
 - WICHTIG: Das Projekt kann nur auf einem PC installiert werden und funktioniert nicht auf mobilen Geräten wie Tablets oder Smartphones!
 
